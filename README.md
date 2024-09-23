@@ -1,4 +1,4 @@
-### Testové zadání do firmy na pozici Java vývojáře
+# Testové zadání do firmy na pozici Java vývojáře
 
 Zadaní:
 V programovacím jazyce Java s využitím Mavenu vytvořte program, který bude spouštěný z příkazové řádky.
@@ -20,7 +20,7 @@ Může jich být více a větší, s vlivem na cekový výkon výpočtu.
 
 
 
-# Výstup vstupního testovacího souboru vzorek_dat.xlsx:
+### Výstup vstupního testovacího souboru vzorek_dat.xlsx:
 ```
 2024-09-23 21:48:12 [main] INFO - Velikost Excel souboru: 9367 bajtů
 2024-09-23 21:48:12 [main] INFO - Načten textová hodnota: 5645657 je prvočíslo.
@@ -33,4 +33,34 @@ Může jich být více a větší, s vlivem na cekový výkon výpočtu.
 2024-09-23 21:48:12 [main] INFO - Načten textová hodnota: 54881 je prvočíslo.
 2024-09-23 21:48:12 [main] INFO - Načtena číselná hodnota: 2147483647 je prvočíslo.
 2024-09-23 21:48:12 [main] INFO - Čtení souboru dokončeno.
+```
+
+Do testování byl přidán i mnohem větší soubor big_data.xlsx.
+
+### Výstup vstupního testovacího souboru big_data.xlsx:
+```
+2024-09-23 21:54:19 [main] INFO - Velikost Excel souboru: 11383580 bajtů
+...
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999667 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999671 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999683 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999721 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999727 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999749 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999763 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999769 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999773 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999809 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999853 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999863 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999883 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999907 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999917 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999931 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999953 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999959 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999961 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999979 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Načten textová hodnota: 999983 je prvočíslo.
+2024-09-23 21:54:40 [main] INFO - Čtení souboru dokončeno.
 ```
