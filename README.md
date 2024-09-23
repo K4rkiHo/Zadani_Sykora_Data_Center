@@ -21,7 +21,7 @@ Může jich být více a větší, s vlivem na cekový výkon výpočtu.
 
 
 # Výstup vstupního testovacího souboru:
-
+```
 2024-09-23 21:48:12 [main] INFO - Velikost Excel souboru: 9367 bajtů
 2024-09-23 21:48:12 [main] INFO - Načten textová hodnota: 5645657 je prvočíslo.
 2024-09-23 21:48:12 [main] INFO - Načten textová hodnota: 15619 je prvočíslo.
@@ -33,3 +33,4 @@ Může jich být více a větší, s vlivem na cekový výkon výpočtu.
 2024-09-23 21:48:12 [main] INFO - Načten textová hodnota: 54881 je prvočíslo.
 2024-09-23 21:48:12 [main] INFO - Načtena číselná hodnota: 2147483647 je prvočíslo.
 2024-09-23 21:48:12 [main] INFO - Čtení souboru dokončeno.
+```
