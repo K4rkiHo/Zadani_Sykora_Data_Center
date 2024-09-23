@@ -1,4 +1,4 @@
-# Testové zadání do firmy na pozici Java vývojáře
+# Testové zadání na pozici Java vývojáře
 
 Zadaní:
 V programovacím jazyce Java s využitím Mavenu vytvořte program, který bude spouštěný z příkazové řádky.
